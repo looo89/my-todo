@@ -1,0 +1,19 @@
+.TaskPage{
+    background-color: #ECEEF1;
+    display: inline-block;
+    
+    width: 370px;
+    border-radius:  0 15px 15px 0;
+}
+.TaskItem{
+    display: flex;
+    margin-left: 6px;
+    margin-top: 4px;
+    margin-right: 5px;
+}
+.TaskItem:hover{
+    border-radius: 4px;
+    padding: 4px;
+    border: 1px solid #F38A8A;
+    display: flex;
+}

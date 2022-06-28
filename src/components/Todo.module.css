@@ -1,0 +1,10 @@
+.Todo{
+    margin: auto;
+    margin-top: 60px;
+    width: 550px;
+    min-height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.15);
+    display: flex;
+    
+}
